@@ -14,7 +14,7 @@ This is a simple web-based **Calculator** built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo  
 You can access the live calculator here:  
-🔗 [GitHub Pages Link](https://saikumarseepana01.github.io/)  
+🔗 [GitHub Pages Link](https://saikumarseepana01.github.io/calculator/)  
 
 ## 📂 Project Structure  
 / (Root Directory) │── index.html # Main HTML file │── style.css # CSS file for styling │── script.js # JavaScript file for functionality │── CNAME # (Optional - Only for custom domains) │── README.md # Project documentation
